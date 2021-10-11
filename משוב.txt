@@ -1,213 +1,280 @@
-äòøåú îî"ï 11- øçîéï
-----******-----Petrol Test 1: Petrol01.txt----******-----
+×”×¢×¨×•×ª ××"×Ÿ 11- ×¨×—××™×Ÿ
+----******-----Petrol Test 1: Petrol01.txt----******-----
 
-Input:
-milesPerGallon = 20.0
 
-Expected Output: 
+Input:
+
+milesPerGallon = 20.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 11.76
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 11.76
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 2: Petrol02.txt----******-----
 
-Input:
-milesPerGallon = 124.0
+----******-----Petrol Test 2: Petrol02.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 124.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 1.9
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 1.9
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 3: Petrol03.txt----******-----
 
-Input:
-milesPerGallon = 55.0
+----******-----Petrol Test 3: Petrol03.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 55.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 4.28
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 4.28
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 4: Petrol04.txt----******-----
 
-Input:
-milesPerGallon = 12.0
+----******-----Petrol Test 4: Petrol04.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 12.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 19.6
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 19.6
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 5: Petrol05.txt----******-----
 
-Input:
-milesPerGallon = 1.0
+----******-----Petrol Test 5: Petrol05.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 1.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 235.24
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 235.24
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 6: Petrol06.txt----******-----
 
-Input:
-milesPerGallon = 1000.0
+----******-----Petrol Test 6: Petrol06.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 1000.0
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 0.24
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 0.24
 
-PASSED.
+PASSED.
 
-----******-----Petrol Test 7: Petrol07.txt----******-----
 
-Input:
-milesPerGallon = 11.76
+----******-----Petrol Test 7: Petrol07.txt----******-----
 
-Expected Output: 
+
+Input:
+
+milesPerGallon = 11.76
+
+
+Expected Output: 
+
 Please enter the car's petrol consumption measured in miles/gallon:
 The car's petrol consumption converted to litres/100km is:
 20.0
 
-Student Output: 
+Student Output: 
+
 Please enter the car's petrol consumption measurd in miles/gallon:
 The car's petrol consumption converted to liters/100km is:
 20.0
 
-PASSED.
+PASSED.
 
-----******-----Trapezoid Test 1: Trapezoid1.txt----******-----
+
+----******-----Trapezoid Test 1: Trapezoid1.txt----******-----
+
 
 ERROR in case the input is:
 Bottom base - left Point is = (1,1) and its length is: 5
-Top base - left Point is = (2,3) and its length is: 2
+Top base - left Point is = (2,3) and its length is: 2
+
 
 Expected Output: 
 The area of the trapezoid is 7.0
 The perimeter of the trapezoid is 12.06449510224598
-
+
+
 
 Student Output: 
 The area of the trapezoid is: 7.0
 The perimeter of the trapezoid is: 13.70820393249937
-
 
-FAILED!!!
 
-----******-----Trapezoid Test 2: Trapezoid2.txt----******-----
+
+FAILED!!!
+
+
+----******-----Trapezoid Test 2: Trapezoid2.txt----******-----
+
 
 ERROR in case the input is:
 Bottom base - left Point is = (2,3) and its length is: 2
-Top base - left Point is = (1,1) and its length is: 5
+Top base - left Point is = (1,1) and its length is: 5
+
 
 Expected Output: 
 The area of the trapezoid is 7.0
 The perimeter of the trapezoid is 12.06449510224598
-
+
+
 
 Student Output: 
 The area of the trapezoid is: 7.0
 The perimeter of the trapezoid is: 13.70820393249937
-
 
-FAILED!!!
 
-----******-----Trapezoid Test 3: Trapezoid3.txt----******-----
+
+FAILED!!!
+
+
+----******-----Trapezoid Test 3: Trapezoid3.txt----******-----
+
 
 Bottom base - left Point is = (1,1) and its length is: 3
-Top base - left Point is = (1,1) and its length is: 3
+Top base - left Point is = (1,1) and its length is: 3
+
 
 Expected Output: 
 The area of the trapezoid is 0.0
 The perimeter of the trapezoid is 6.0
-
+
+
 
 Student Output: 
 The area of the trapezoid is: 0.0
 The perimeter of the trapezoid is: 6.0
-
 
-PASSED.
 
-----******-----Trapezoid Test 4: Trapezoid4.txt----******-----
+
+PASSED.
+
+
+----******-----Trapezoid Test 4: Trapezoid4.txt----******-----
+
 
 Bottom base - left Point is = (-1,1) and its length is: 2
-Top base - left Point is = (2,3) and its length is: 2
+Top base - left Point is = (2,3) and its length is: 2
+
 
 Expected Output: 
 The area of the trapezoid is 4.0
 The perimeter of the trapezoid is 11.21110255092798
-
+
+
 
 Student Output: 
 The area of the trapezoid is: 4.0
 The perimeter of the trapezoid is: 11.21110255092798
-
 
-PASSED.
 
-----******-----Trapezoid Test 5: Trapezoid5.txt----******-----
+
+PASSED.
+
+
+----******-----Trapezoid Test 5: Trapezoid5.txt----******-----
+
 
 ERROR in case the input is:
 Bottom base - left Point is = (1,1) and its length is: 5
-Top base - left Point is = (2,4) and its length is: 2
+Top base - left Point is = (2,4) and its length is: 2
+
 
 Expected Output: 
 The area of the trapezoid is 10.5
 The perimeter of the trapezoid is 13.76782893563237
-
+
+
 
 Student Output: 
 The area of the trapezoid is: 10.5
 The perimeter of the trapezoid is: 15.16227766016838
-
 
-FAILED!!!
+
+
+FAILED!!!
+
 
 //-8
-áçì÷ îäî÷øéí äçéùåáéí áúøâéì 2 ìà éöàå îãåé÷éí, áãå÷ îãåò.
-òáåãä èåáä îàåã åúéòåã èåá,
-áøéàåú àéúğä åçâ ùîç ìê åìëì áğé äîùôçä,
-øåğéú
+×‘×—×œ×§ ××”××§×¨×™× ×”×—×™×©×•×‘×™× ×‘×ª×¨×’×™×œ 2 ×œ× ×™×¦××• ××“×•×™×§×™×, ×‘×“×•×§ ××“×•×¢.
+×¢×‘×•×“×” ×˜×•×‘×” ×××•×“ ×•×ª×™×¢×•×“ ×˜×•×‘,
+×‘×¨×™××•×ª ××™×ª× ×” ×•×—×’ ×©××— ×œ×š ×•×œ×›×œ ×‘× ×™ ×”××©×¤×—×”,
+×¨×•× ×™×ª
